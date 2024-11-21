@@ -2,4 +2,4 @@ This is the open sourced centralized algorithm for 4a, a platform for meeting li
 
 # Why is this open source?
 
-To be transparent
+To be transparent in showing what considerations and parameters are assessed to lead to matches. 
